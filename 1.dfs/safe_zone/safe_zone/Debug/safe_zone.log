@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  safe_zone.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2017\Projects\safe_zone\Debug\safe_zone.exe
+LINK : fatal error LNK1168: C:\Users\ima_com\Documents\GitHub\alorithm\1.dfs\safe_zone\Debug\safe_zone.exe을(를) 쓰기용으로 열 수 없습니다.
